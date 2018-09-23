@@ -1,0 +1,16 @@
+[
+{
+  "modid": "obsnz",
+  "name": "Obsidian Mod",
+  "description": "Obsidian and More!",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["nekoninjax3"],
+  "credits": "The Forge and FML guys, And NekoNinjax3",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
